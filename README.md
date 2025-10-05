@@ -76,7 +76,7 @@
       </p>
       <p align="center">TechBlog – A Learning Platform</p>
     </td>
-    <td width="50%">
+    <!-- <td width="50%">
       <h3 align="center">Movie Recommendation System</h3>
       <p align="center">
         <a href="https://github.com/yourusername/movie-recommendation" target="_blank">
@@ -105,7 +105,7 @@
       </p>
       <p align="center">Predictive price analysis</p>
     </td>
-  </tr>
+  </tr> -->
 </table>
 
 ---
