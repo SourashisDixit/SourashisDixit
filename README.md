@@ -56,7 +56,7 @@
 
 ### ☁️ Fullstack
 <p align="center">
-  <img src="[https://via.placeholder.com/300x200/32CD32/FFFFFF?text=Fullstack+Development](https://files.catbox.moe/97opt0.jpg)" alt="Fullstack" width="300"/>
+  <img src="https://files.catbox.moe/97opt0.jpg" alt="Fullstack" width="300"/>
 </p>
 
 ## Frontend + Backend + Databases + Cloud ##
