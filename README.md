@@ -7,7 +7,7 @@
 
 ### 🚀 Full Stack Developer | Web Developer | Python Developer
 <p align="center">
-  <img src="![68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578596e466d5a54566f4f5468714e6d303461584e324d7a4e734e446b7a626a517a623251304d6e6c6d617a647a62446732625756774f535a6c63443](https://github.com/user-attachments/assets/75f94409-a0a4-4600-82ec-86290a62923c)
+  <img src="![name gif](https://github.com/user-attachments/assets/1f1c4061-9f28-4528-816d-c3f48dab8182)
 " alt="developer coding" width="500"/>
 </p>
 
