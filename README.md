@@ -42,7 +42,7 @@
 
 ### 🎨 Frontend
 <p align="center">
-  <img src="https://via.placeholder.com/300x200/4A90E2/FFFFFF?text=Frontend+Development" alt="Frontend" width="300"/>
+  <img src="https://files.catbox.moe/pyzs5o.jpg" alt="Frontend" width="300"/>
 </p>
 
 **HTML | CSS | JavaScript | React | TailwindCSS**
