@@ -1,7 +1,8 @@
 # Hi 👋, I am [Your Name]
 
+<!-- Developer GIF -->
 <p align="center">
-  <img src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding illustration" width="400"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="developer coding" width="500"/>
 </p>
 
 ### 🚀 Full Stack Developer | Web Developer | Python Developer
