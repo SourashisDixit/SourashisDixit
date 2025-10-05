@@ -49,7 +49,7 @@
 
 ### 🔧 Backend
 <p align="center">
-  <img src="https://via.placeholder.com/300x200/7B68EE/FFFFFF?text=Backend+Development" alt="Backend" width="300"/>
+  <img src="https://files.catbox.moe/v56mge.jpg" alt="Backend" width="300"/>
 </p>
 
 **Python | Django | FastAPI**
