@@ -7,8 +7,7 @@
 
 ### 🚀 Full Stack Developer | Web Developer | Python Developer
 <p align="center">
-  <img src="![name gif](https://github.com/user-attachments/assets/1f1c4061-9f28-4528-816d-c3f48dab8182)
-" alt="developer coding" width="500"/>
+  <img src="https://files.catbox.moe/puwinn.gif" alt="developer coding" width="500"/>
 </p>
 
 ---
