@@ -52,14 +52,14 @@
   <img src="https://files.catbox.moe/v56mge.jpg" alt="Backend" width="300"/>
 </p>
 
-**Python | Django | FastAPI**
+## Python | Django | FastAPI ###
 
 ### ☁️ Fullstack
 <p align="center">
   <img src="https://via.placeholder.com/300x200/32CD32/FFFFFF?text=Fullstack+Development" alt="Fullstack" width="300"/>
 </p>
 
-**Frontend + Backend + Databases + Cloud**
+## Frontend + Backend + Databases + Cloud ##
 
 ---
 
