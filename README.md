@@ -74,7 +74,7 @@
           <img src="https://img.shields.io/badge/Code-View-blue?style=for-the-badge&logo=github"/>
         </a>
       </p>
-      <p align="center">An innovative AI model</p>
+      <p align="center">TechBlog – A Learning Platform</p>
     </td>
     <td width="50%">
       <h3 align="center">Movie Recommendation System</h3>
