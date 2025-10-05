@@ -68,9 +68,9 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">GAIA Model</h3>
+      <h3 align="center">TECH BLOG</h3>
       <p align="center">
-        <a href="https://github.com/yourusername/gaia-model" target="_blank">
+        <a href="https://github.com/SourashisDixit/TechBlog" target="_blank">
           <img src="https://img.shields.io/badge/Code-View-blue?style=for-the-badge&logo=github"/>
         </a>
       </p>
