@@ -45,7 +45,7 @@
   <img src="https://files.catbox.moe/pyzs5o.jpg" alt="Frontend" width="300"/>
 </p>
 
-**HTML | CSS | JavaScript | React | TailwindCSS**
+###HTML | CSS | JavaScript | React | TailwindCSS###
 
 ### 🔧 Backend
 <p align="center">
