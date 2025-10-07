@@ -87,9 +87,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SourashisDixit&show_icons=true&theme=radical" alt="GitHub Stats" width="60%"/>
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SourashisDixit&theme=radical" alt="GitHub Streak" width="60%"/>
-</p> -->
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SourashisDixit&layout=compact&theme=radical&langs_count=8" alt="Top Languages" width="60%"/>
